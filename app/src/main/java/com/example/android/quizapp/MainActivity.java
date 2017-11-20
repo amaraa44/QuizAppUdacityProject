@@ -18,6 +18,14 @@ public class MainActivity extends AppCompatActivity {
     public void SubmitAnswerBtn(View view) {
         displayResult(checkAnswers());
     }
+    /**
+     * This method will counting the right answers.
+     * If the user checked the right answer, this method will increase the
+     * goodAnswers by one.
+     * This method will get back to us the number of good answers.
+     *
+     * @return goodAnswers
+     * */
     private int checkAnswers(){
         int goodAnswers = 0;
         RadioButton q1Answer = (RadioButton) findViewById(R.id.question1_Jumpman_answer_RadioButton);
@@ -36,6 +44,12 @@ public class MainActivity extends AppCompatActivity {
         }
         return goodAnswers;
     }
+
+    /**
+     * This method will display us a String with a number.
+     *
+     * @param numberOfGoodAnswers
+     * */
     private void displayResult(int numberOfGoodAnswers){
         Toast.makeText(this, "Number of good answers: " + numberOfGoodAnswers, Toast.LENGTH_LONG).show();
     }
