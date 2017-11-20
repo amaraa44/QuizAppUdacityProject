@@ -3,33 +3,33 @@
 
     <string name="do_you_know_video_games">Do you know Video Games?</string>
 
-    <string name="question_1">Question 1</string>
+    <string name="question_1">1. Question</string>
     <string name="q1">What was Mario’s name in Donkey Kong?</string>
-    <string name="q1_Jumpman">Jumpman</string>
-    <string name="q1_MrPlumber">Mr. Plumber</string>
-    <string name="q1_Antonio">Antonio</string>
-    <string name="q1_Junpei">Junpei</string>
+    <string name="q1_Jumpman" translatable="false">Jumpman</string>
+    <string name="q1_MrPlumber" translatable="false">Mr. Plumber</string>
+    <string name="q1_Antonio" translatable="false">Antonio</string>
+    <string name="q1_Junpei" translatable="false">Junpei</string>
 
-    <string name="question_2">Question 2</string>
+    <string name="question_2">2. Question</string>
     <string name="q2">What time traveling device appears in Assassin’s Creed?</string>
-    <string name="q2_TimeSphere">Time sphere</string>
-    <string name="q2_CosmicTreadmill">Cosmic treadmill</string>
-    <string name="q2_Animus">Animus</string>
-    <string name="q2_Epoch">Epoch</string>
+    <string name="q2_TimeSphere" translatable="false">Time sphere</string>
+    <string name="q2_CosmicTreadmill" translatable="false">Cosmic treadmill</string>
+    <string name="q2_Animus" translatable="false">Animus</string>
+    <string name="q2_Epoch" translatable="false">Epoch</string>
 
-    <string name="question_3">Question 3</string>
+    <string name="question_3">3. Question</string>
     <string name="q3">Which bad guy was introduced in Super Mario Brothers 2?</string>
-    <string name="q3_NathanDrake">Nathan Drake</string>
-    <string name="q3_Mario">Mario</string>
-    <string name="q3_Link">Link</string>
-    <string name="q3_MasterChief">Master Chief</string>
+    <string name="q3_NathanDrake" translatable="false">Nathan Drake</string>
+    <string name="q3_Mario" translatable="false">Mario</string>
+    <string name="q3_Link" translatable="false">Link</string>
+    <string name="q3_MasterChief" translatable="false">Master Chief</string>
 
-    <string name="question_4">Question 4</string>
+    <string name="question_4">4. Question</string>
     <string name="q4">What’s the best-selling video game console of all time?</string>
-    <string name="q4_NintendoEtertainmentSystem">Nintendo Entertainment System</string>
-    <string name="q4_Xbox360">Xbox 360</string>
-    <string name="q4_NintendoDS">Nintendo DS</string>
-    <string name="q4_Playstation2">PlayStation 2</string>
+    <string name="q4_NintendoEtertainmentSystem" translatable="false">Nintendo Entertainment System</string>
+    <string name="q4_Xbox360" translatable="false">Xbox 360</string>
+    <string name="q4_NintendoDS" translatable="false">Nintendo DS</string>
+    <string name="q4_Playstation2" translatable="false">PlayStation 2</string>
 
-    <string name="submit_answer">Submit answer</string>
+    <string name="submit_answer">Submit answers</string>
 </resources>

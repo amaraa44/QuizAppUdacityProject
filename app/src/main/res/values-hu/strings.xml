@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="do_you_know_video_games">Ismered a videójátékokat?</string>
+    <string name="q1">Mi volt Mario neve a Donkey Kongban?</string>
+    <string name="q2">Milyen időutazó eszköz jelenik meg az Assassin\'s Creedben?</string>
+    <string name="q3">Melyik rossz embert mutatták be a Super Mario Brothers 2-ben?</string>
+    <string name="q4">Melyik minden idők legkelendőbb videojáték-konzola?</string>
+    <string name="question_1">1. Kérdés</string>
+    <string name="question_2">2. Kérdés</string>
+    <string name="question_3">3. Kérdés</string>
+    <string name="question_4">4. Kérdés</string>
+    <string name="submit_answer">Válaszok beküldése</string>
+</resources>
